@@ -44,9 +44,13 @@
 14. **Displayed a thank you message:**
     Printed a thank you message to acknowledge Mr. Tom's completion of the tasks and express gratitude for his cooperation.
 
-    ![](D:\OperatingSystemLabs\Screenshot 1.png)
+    ![](Screenshot 1.png)
 
-    ![](D:\OperatingSystemLabs\image-20240202165327328.png)
+    
+
+    ![](image-20240202165327328.png)
+
+    
 
 ## **Task2:**
 
@@ -63,4 +67,8 @@
 4. **Appended the output of ls command to the created file:**
    Utilized the `ls -l` command to list detailed information about files in the current directory. Appended the output of this command to the "19f-XXXX_OS-lab_rules.txt" file, providing a detailed listing of files, including their permissions, owner, group, size, modification time, and filename.
 
-![](D:\OperatingSystemLabs\ss3.png)
+![](ss3.png)
+
+
+
+**Github repo link:**https://github.com/areej-fatimaa/OperatingSystem/tree/main/OperatingSystemLabs
